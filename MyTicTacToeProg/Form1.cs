@@ -37,7 +37,11 @@ namespace MyTicTacToeProg
                 (btn1.Text == btn5.Text && btn5.Text == btn9.Text && btn5.Text != "") ||
                 (btn3.Text == btn5.Text && btn5.Text == btn7.Text && btn5.Text != ""))
                 {
-                    MessageBox.Show("Player X Won!!!");
+                    MessageBox.Show("Player X Win!!!");
+                }
+                else if (turn == 8)
+                {
+                    MessageBox.Show("It's a Draw!!!");
                 }
                     turn += 1;
             }
@@ -56,7 +60,7 @@ namespace MyTicTacToeProg
                 (btn1.Text == btn5.Text && btn5.Text == btn9.Text && btn5.Text != "") ||
                 (btn3.Text == btn5.Text && btn5.Text == btn7.Text && btn5.Text != ""))
                 {
-                    MessageBox.Show("Player O Won!!!");
+                    MessageBox.Show("Player O Win!!!");
                 }
                     turn += 1;
             }
