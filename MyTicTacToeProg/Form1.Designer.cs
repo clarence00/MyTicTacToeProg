@@ -63,6 +63,7 @@
             this.btn2.Size = new System.Drawing.Size(115, 115);
             this.btn2.TabIndex = 1;
             this.btn2.UseVisualStyleBackColor = false;
+            this.btn2.Click += new System.EventHandler(this.btn_click);
             // 
             // btn3
             // 
@@ -75,6 +76,7 @@
             this.btn3.Size = new System.Drawing.Size(115, 115);
             this.btn3.TabIndex = 2;
             this.btn3.UseVisualStyleBackColor = false;
+            this.btn3.Click += new System.EventHandler(this.btn_click);
             // 
             // btn4
             // 
@@ -87,6 +89,7 @@
             this.btn4.Size = new System.Drawing.Size(115, 115);
             this.btn4.TabIndex = 3;
             this.btn4.UseVisualStyleBackColor = false;
+            this.btn4.Click += new System.EventHandler(this.btn_click);
             // 
             // btn5
             // 
@@ -99,6 +102,7 @@
             this.btn5.Size = new System.Drawing.Size(115, 115);
             this.btn5.TabIndex = 4;
             this.btn5.UseVisualStyleBackColor = false;
+            this.btn5.Click += new System.EventHandler(this.btn_click);
             // 
             // btn6
             // 
@@ -111,6 +115,7 @@
             this.btn6.Size = new System.Drawing.Size(115, 115);
             this.btn6.TabIndex = 5;
             this.btn6.UseVisualStyleBackColor = false;
+            this.btn6.Click += new System.EventHandler(this.btn_click);
             // 
             // btn7
             // 
@@ -123,6 +128,7 @@
             this.btn7.Size = new System.Drawing.Size(115, 115);
             this.btn7.TabIndex = 6;
             this.btn7.UseVisualStyleBackColor = false;
+            this.btn7.Click += new System.EventHandler(this.btn_click);
             // 
             // btn8
             // 
@@ -135,6 +141,7 @@
             this.btn8.Size = new System.Drawing.Size(115, 115);
             this.btn8.TabIndex = 7;
             this.btn8.UseVisualStyleBackColor = false;
+            this.btn8.Click += new System.EventHandler(this.btn_click);
             // 
             // btn9
             // 
@@ -147,6 +154,7 @@
             this.btn9.Size = new System.Drawing.Size(115, 115);
             this.btn9.TabIndex = 8;
             this.btn9.UseVisualStyleBackColor = false;
+            this.btn9.Click += new System.EventHandler(this.btn_click);
             // 
             // Form1
             // 
