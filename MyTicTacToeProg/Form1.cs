@@ -19,17 +19,19 @@ namespace MyTicTacToeProg
 
         byte turn = 0;
 
-        private void btn1_Click(object sender, EventArgs e)
+        private void btn_click(object sender, EventArgs e)
         {
             Button click = (Button)sender;
             if (turn % 2 == 0)
             {
                 click.Text = "X";
+                click.Enabled = false;
                 turn += 1;
             }
             else
             {
                 click.Text = "O";
+                click.Enabled = false;
                 turn += 1;
             }
         }
