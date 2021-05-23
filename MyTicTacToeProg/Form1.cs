@@ -30,7 +30,10 @@ namespace MyTicTacToeProg
 
                 if ((btn1.Text == btn2.Text && btn2.Text == btn3.Text && btn1.Text != "") ||
                 (btn4.Text == btn5.Text && btn5.Text == btn6.Text && btn4.Text != "") ||
-                (btn7.Text == btn8.Text && btn8.Text == btn9.Text && btn7.Text != ""))
+                (btn7.Text == btn8.Text && btn8.Text == btn9.Text && btn7.Text != "") ||
+                (btn1.Text == btn4.Text && btn4.Text == btn7.Text && btn7.Text != "") ||
+                (btn2.Text == btn5.Text && btn5.Text == btn8.Text && btn8.Text != "") ||
+                (btn3.Text == btn6.Text && btn6.Text == btn9.Text && btn9.Text != ""))
                 {
                     MessageBox.Show("Player X Won!!!");
                 }
