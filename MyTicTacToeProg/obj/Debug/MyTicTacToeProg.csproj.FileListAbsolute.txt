@@ -1,0 +1,10 @@
+C:\Users\tess7\source\repos\MyTicTacToeProg\MyTicTacToeProg\bin\Debug\MyTicTacToeProg.exe.config
+C:\Users\tess7\source\repos\MyTicTacToeProg\MyTicTacToeProg\bin\Debug\MyTicTacToeProg.exe
+C:\Users\tess7\source\repos\MyTicTacToeProg\MyTicTacToeProg\bin\Debug\MyTicTacToeProg.pdb
+C:\Users\tess7\source\repos\MyTicTacToeProg\MyTicTacToeProg\obj\Debug\MyTicTacToeProg.csprojAssemblyReference.cache
+C:\Users\tess7\source\repos\MyTicTacToeProg\MyTicTacToeProg\obj\Debug\MyTicTacToeProg.Form1.resources
+C:\Users\tess7\source\repos\MyTicTacToeProg\MyTicTacToeProg\obj\Debug\MyTicTacToeProg.Properties.Resources.resources
+C:\Users\tess7\source\repos\MyTicTacToeProg\MyTicTacToeProg\obj\Debug\MyTicTacToeProg.csproj.GenerateResource.cache
+C:\Users\tess7\source\repos\MyTicTacToeProg\MyTicTacToeProg\obj\Debug\MyTicTacToeProg.csproj.CoreCompileInputs.cache
+C:\Users\tess7\source\repos\MyTicTacToeProg\MyTicTacToeProg\obj\Debug\MyTicTacToeProg.exe
+C:\Users\tess7\source\repos\MyTicTacToeProg\MyTicTacToeProg\obj\Debug\MyTicTacToeProg.pdb
