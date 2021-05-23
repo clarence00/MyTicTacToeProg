@@ -25,10 +25,12 @@ namespace MyTicTacToeProg
             if (turn % 2 == 0)
             {
                 click.Text = "X";
+                turn += 1;
             }
             else
             {
                 click.Text = "O";
+                turn += 1;
             }
         }
     }
