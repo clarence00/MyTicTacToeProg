@@ -26,12 +26,14 @@ namespace MyTicTacToeProg
             {
                 click.Text = "X";
                 click.Enabled = false;
+                click.BackColor = Color.LightGreen;
                 turn += 1;
             }
             else
             {
                 click.Text = "O";
                 click.Enabled = false;
+                click.BackColor = Color.LightPink;
                 turn += 1;
             }
         }
